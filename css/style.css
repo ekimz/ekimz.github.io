@@ -6,3 +6,11 @@
 .jumbotron h1 {
     text-align: center;
 }
+
+.jumbotron p {
+    margin-left: 20%;
+}
+
+body {
+    background-color: #293847;
+}
